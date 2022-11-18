@@ -1,70 +1,39 @@
-# Tarea-Capitulo-3-y-4
+![image](https://user-images.githubusercontent.com/116819100/202600463-84a8f18b-6274-4eb5-abe0-1334f3dc985c.png)
+----------------------------------------------------------------------------------------------------------------------------------------
+Nombre: Henry Romero        
+Materia: Fundamentos de Circuitos Electricos NRC:10063-202251  
+Fecha de Entrega: 17/11/2022
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
+**1.OBJETIVO GENERAL**
 
+Estudiar los conceptos relacionados a la ley de Ohm y el cálculo de potencia eléctrica y su relevancia referente al ámbito de la electroníca fundamental a partir de las unidades de Voltaje, Corriente y Resistencia detereminando sus relaciones ya sean inversa o directamente proporcionales las unas con las otras.
 
 
+**1.2 OBJETIVOS ESPECIFICOS**
 
+Determinar los conceptos básicos referentes a la ley de Ohm por medio de la resolución de ejercicios aplicativos aplicando la formula propuesta para dicha ley.
 
+Analizar las propiedades de la potencia eléctrica para los circuitos simples y su relacion con el flujo de la corriente y el comportamiento eléctrico por medio de ejercicios aplicativos de los conceptos estudiados.
 
+-----------------------------------------------------------------------------------------------------------------------------
 
+2.**MARCO TEÓRICO**
 
 
+![image](https://user-images.githubusercontent.com/116819100/202601714-34c226f6-1414-476b-a19a-7810b845ae51.png)
 
 
 
+![image](https://user-images.githubusercontent.com/116819100/202602303-9f6c6059-cde7-4df2-89d7-6bb1a3716109.png)
 
 
+----------------------------------------------------------------------------------------------------------------------
 
+3.**RESOLUCION DE EJERCICIOS**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------
 1.En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando.
 
 ![image](https://user-images.githubusercontent.com/116819100/202329913-1df27dfe-8def-43c8-a090-6097ff641d95.png)
@@ -80,6 +49,9 @@
 Explicacion de la gráfica es una línea recta, lo que indica una relación lineal entre V e I.
 
 7.La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3
+![image](https://user-images.githubusercontent.com/116819100/202602518-117587dc-6abd-4a9c-bfe4-f345f55a323d.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/116819100/202330610-f18984ee-30e5-4416-af33-daf5817d2ccf.png)
 ![image](https://user-images.githubusercontent.com/116819100/202330625-1d43be2e-421c-487d-990d-7c9be77ff407.png)
