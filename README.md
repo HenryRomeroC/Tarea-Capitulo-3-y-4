@@ -185,5 +185,106 @@ R=V/I
 R=100/0.75=133.3(OHM)
 R=100/1=100(OHM)
 
+35.Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
 
+R=110/1=110(OHM)
+
+37.Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+La división a la mitad identifica la falla aislando sucesivamente al mitad del circuito restante.
+
+Lo que resulta en 16 lecturas de resistencia desde izquierda a derecha
+32/2=16
+
+//CAPITULO 4//
+
+1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+....Potencia es la velocidad a la que se consume la energía. Tal que:
+.....Potencia=Energia/tiempo
+.....Podemos decir que la potencia se mide en julio (joule) dividido por segundo.
+.....Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por `su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto, *W=V*I
+Si observamos la fórmula W = V • I veremos que el voltaje y la intensidad de la corriente que fluye por un circuito eléctrico son directamente proporcionales a la potencia; es decir, si uno de ellos aumenta o disminuye su valor, la potencia también aumenta o disminuye de forma proporcional.
+
+3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+Potencia=Energia/tiempo
+
+W=350j/1 sec=350
+5.¿A cuántos watts equivalen 1000 J en 50 ms?
+
+W=1000j/0.005sec= 200000
+
+
+7.Convierta las siguientes cantidades en megawatts:
+
+1000000 W= 1MW
+33X10(6) W= 33MW
+15X10(7) W= 150MW
+8700K W= 3.7MW
+
+
+9.Convierta las siguientes cantidades en microwatts:
+
+2 W= 2x10(6)mW
+0.0005 W= 2x10(6)mW
+0.25m W= 500mW
+0.0125 W= 12500mW
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+W=V*I
+
+0.0001/24=4.166
+
+13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+
+1500kwhx1/744H=2.016wpH
+
+15.Convierta 6700 watts-segundos en kWh.
+![image](https://user-images.githubusercontent.com/116819100/202599500-ce9ad658-9ecd-498e-90af-f3610caa5865.png)
+
+17.Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+![image](https://user-images.githubusercontent.com/116819100/202599531-f98903c9-823e-4564-9f47-86661a282016.png)
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+![image](https://user-images.githubusercontent.com/116819100/202599619-b73bd14f-dc75-4d59-af5a-eac6d173d342.png)
+
+21.Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 µA.
+![image](https://user-images.githubusercontent.com/116819100/202599659-740bfa96-52e3-49db-a820-1dc57fa045b1.png)
+
+22.Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+![image](https://user-images.githubusercontent.com/116819100/202599686-a657771f-2379-4d62-a684-68a9013ab7ed.png)
+
+23.Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+![image](https://user-images.githubusercontent.com/116819100/202599717-876a7b2b-19a4-4bd3-a693-c69538141bd6.png)
+
+27.Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+Para poseer un margen mínimo de seguridad del 20 % utilizaría la clasificación de 12 W, porque su potencial nominal debe ser como mínimo el siguiente valor estándar que sea mayor que la potencia máxima, es decir como el valor que le sigue a 8W es 12W entonces este sería el valor nominal.
+
+29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+![image](https://user-images.githubusercontent.com/116819100/202599891-0560815f-4bde-4f93-84f9-12c4bac52e65.png)
+
+31.¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas? batería D alcalina que puede mantener un voltaje promedio de 1.25 V en una carga de 10 Ω antes de volverse inutilizable.
+![image](https://user-images.githubusercontent.com/116819100/202599935-f84c487f-4203-46a8-adc4-5f78fba05d4e.png)
+
+
+33.¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+![image](https://user-images.githubusercontent.com/116819100/202599955-36cf38a6-448d-465a-a7da-05a531088c7e.png)
+
+
+35.Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+![image](https://user-images.githubusercontent.com/116819100/202600027-9809b0ba-a65b-4789-a1d0-182152783c7c.png)
+
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+![Uploading image.png…]()
+-------------------------------------------------------------------------------------------------------
+1.5 VIDEOS
+
+-------------------------------------------------------------------------------------------------------
+1.6 .CONCLUCIONES
+
+
+-------------------------------------------------------------------------------------------------------
+1.7.BIBLIOGRAFÍA
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
